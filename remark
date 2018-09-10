@@ -1,1 +1,1 @@
-mvn archetype:generate -DgroupId=com.qxf -DartifactId=sanya-fund -Dversion=1.0.0-SNAPSHOT -DarchetypeGroupId=com.qxf -DarchetypeArtifactId=beast-gov-cloud-archetype -DarchetypeVersion=1.3-SNAPSHOT -X -DarchetypeCatalog=local
+mvn archetype:generate -DgroupId=com.qxf -DartifactId=sanya-fund1 -Dversion=1.0.0-SNAPSHOT -DarchetypeGroupId=com.qxf -DarchetypeArtifactId=beast-gov-cloud-archetype -DarchetypeVersion=1.3-SNAPSHOT -X -DarchetypeCatalog=local
